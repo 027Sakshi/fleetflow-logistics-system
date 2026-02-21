@@ -187,13 +187,13 @@ Unlike traditional fleet tools, FleetFlow:
 1.  **Sakshi Giglani**
     LinkedIn: https://www.linkedin.com/in/sakshi-giglani/
 
-2.  **Venisha P Champaneri**\
+3.  **Venisha P Champaneri**\
     LinkedIn: https://www.linkedin.com/in/venisha-p-champaneri-8618b83a2/
 
-3.  **Khushi Patel**\
+4.  **Khushi Patel**\
     LinkedIn: https://www.linkedin.com/in/khushi-patel-9a6583381/
 
-4.  **Jesika Solanki**\
+5.  **Jesika Solanki**\
     LinkedIn: https://www.linkedin.com/in/jesika-solanki-5ab7843a2/
 
 ------------------------------------------------------------------------
