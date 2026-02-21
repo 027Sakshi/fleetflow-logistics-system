@@ -184,7 +184,7 @@ Unlike traditional fleet tools, FleetFlow:
 
 # 👩‍💻 Team Members
 
-1.  **Sakshi Giglani**
+1.  **Sakshi Giglani**\
     LinkedIn: https://www.linkedin.com/in/sakshi-giglani/
 
 3.  **Venisha P Champaneri**\
